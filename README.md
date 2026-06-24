@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lakshayyy10/leetcode/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
