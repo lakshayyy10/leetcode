@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/lakshayyy10/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/lakshayyy10/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/lakshayyy10/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/lakshayyy10/leetcode/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/lakshayyy10/leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
