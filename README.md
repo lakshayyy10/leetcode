@@ -34,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/lakshayyy10/leetcode/tree/master/0191-number-of-1-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/lakshayyy10/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/lakshayyy10/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
