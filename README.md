@@ -30,14 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/lakshayyy10/leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/lakshayyy10/leetcode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/lakshayyy10/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/lakshayyy10/leetcode/tree/master/0231-power-of-two) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/lakshayyy10/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/lakshayyy10/leetcode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/lakshayyy10/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
