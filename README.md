@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshayyy10/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lakshayyy10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lakshayyy10/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshayyy10/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshayyy10/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lakshayyy10/leetcode/tree/master/0231-power-of-two) |
 ## Depth-First Search
