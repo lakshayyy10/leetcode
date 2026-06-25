@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/lakshayyy10/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/lakshayyy10/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/lakshayyy10/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
