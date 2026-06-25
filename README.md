@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshayyy10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/lakshayyy10/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lakshayyy10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lakshayyy10/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lakshayyy10/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lakshayyy10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/lakshayyy10/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/lakshayyy10/leetcode/tree/master/0165-compare-version-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/lakshayyy10/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
