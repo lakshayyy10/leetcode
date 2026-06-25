@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lakshayyy10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lakshayyy10/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0165-compare-version-numbers](https://github.com/lakshayyy10/leetcode/tree/master/0165-compare-version-numbers) |
 | [0394-decode-string](https://github.com/lakshayyy10/leetcode/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/lakshayyy10/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Stack
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lakshayyy10/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lakshayyy10/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/lakshayyy10/leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
