@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshayyy10/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/lakshayyy10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lakshayyy10/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshayyy10/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/lakshayyy10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayyy10/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshayyy10/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/lakshayyy10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
