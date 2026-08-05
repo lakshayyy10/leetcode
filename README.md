@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lakshayyy10/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshayyy10/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/lakshayyy10/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/lakshayyy10/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/lakshayyy10/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lakshayyy10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lakshayyy10/leetcode/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lakshayyy10/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/lakshayyy10/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayyy10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lakshayyy10/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/lakshayyy10/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/lakshayyy10/leetcode/tree/master/0518-coin-change-ii) |
