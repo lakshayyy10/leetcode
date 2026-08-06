@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakshayyy10/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lakshayyy10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lakshayyy10/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lakshayyy10/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/lakshayyy10/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayyy10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/lakshayyy10/leetcode/tree/master/0322-coin-change) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshayyy10/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/lakshayyy10/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/lakshayyy10/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/lakshayyy10/leetcode/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakshayyy10/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lakshayyy10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/lakshayyy10/leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/lakshayyy10/leetcode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
